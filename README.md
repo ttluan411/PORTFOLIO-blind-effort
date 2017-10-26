@@ -1,2 +1,3 @@
 # PORTFOLIO-blind-effort
-This is [live link](http://blindresume.seewilsoncode.com/#/)
+* [live link](http://blindresume.seewilsoncode.com/#/)
+* [walkthrough video](https://youtu.be/XHixIrTqrx8)
