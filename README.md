@@ -1,2 +1,2 @@
 # PORTFOLIO-blind-effort
-This is [live link](https://http://blindresume.seewilsoncode.com/#/)
+This is [live link](http://blindresume.seewilsoncode.com/#/)
